@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fjaradev
+- 👀 I’m interested in new technologies, as an artist I mix all my artistic knowledge mixed with techologies to create interesting applications.
+- 🌱 I’m currently learning python and Data Analysis
+- 💞️ I’m looking to collaborate on 
+- 📫 You can reach out to me at fjaradevelopment@gmail.com
